@@ -25,3 +25,4 @@ const pagesSchema = new mongoose.Schema(
     },{timestamps : true}
 );
 export const Page = mongoose.model("Page", pagesSchema);
+
