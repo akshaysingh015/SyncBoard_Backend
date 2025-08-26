@@ -1,2 +1,2 @@
-export const DB_NAME = "SyncBoard";
+const DB_NAME = "SyncBoard";
 export { DB_NAME };
